@@ -1,5 +1,5 @@
 # minesweeper_CMU_AP_project
-my ap cs pre project
+this is my Ap CS Principles Project
 
 # dependencies
  * python 
